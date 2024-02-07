@@ -1,1 +1,8 @@
+/* Custom styles */
+
+.tall-section {
+    background-color: #f0f0f0; /* Set background color for the tall section */
+    margin-top: 50px; /* Adjust margin as needed */
+    padding: 20px;
+}
 
